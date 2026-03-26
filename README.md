@@ -43,7 +43,9 @@ npx skills add https://github.com/coinglass-official/coinglass-api-skills
 Install Skills (via GitHub Download ZIP)
 
 1.Click the Code button in the top right corner and select Download ZIP.
+
 2.Upload the extracted files to the corresponding platform/tool.
+
 3.Follow the platform/tool's instructions for further configuration and installation.
 
 Cursor Skills Installation Guide: https://cursor.com/docs/skills
