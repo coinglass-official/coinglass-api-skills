@@ -22,7 +22,7 @@ Browse the existing skills to understand patterns and naming conventions before 
 
 * * *
 
-## Installation
+## Install Skills (npx skills)
 
 Get started with CoinGlass API Skills in a single command.
 
@@ -32,15 +32,13 @@ Before installing CoinGlass API Skills , ensure you have the following prerequis
 
 - Node.js (version 22 or higher)
 
-### Install Skills (npx skills)
-
 Run the following command to add CoinGlass API Skills to your project:
 
 ```bash
 npx skills add https://github.com/coinglass-official/coinglass-api-skills
 ```
 
-### Install Skills (via GitHub Download ZIP)
+## Install Skills (via GitHub Download ZIP)
 
 1.Click the Code button in the top right corner and select Download ZIP.
 
